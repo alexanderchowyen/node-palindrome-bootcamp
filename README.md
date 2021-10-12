@@ -4,19 +4,9 @@
 
 ### How to submit your code for review:
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+<img width="1422" alt="Screen Shot 2021-10-12 at 3 44 18 AM" src="https://user-images.githubusercontent.com/89674474/136913645-d2779c84-9a12-49db-8e80-e8631bcd4506.png">
 
-Example:
-```
 I completed the challenge: 5
 I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+I had to move some things around in my fetch before getting it to work properly it works.
+`
