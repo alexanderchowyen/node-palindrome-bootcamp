@@ -20,3 +20,5 @@ I completed the challenge: 5
 I feel good about my code: 4
 I'm not sure if my constructors are setup cleanly...
 ```
+##
+![AnchoredLiquidDotterel-max-1mb](https://user-images.githubusercontent.com/89674474/141045314-95dd9eae-daf4-4f29-a0cf-cff11d7b4840.gif)
